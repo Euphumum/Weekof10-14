@@ -184,7 +184,9 @@ def montepi(numDarts):
 
 print(montepi(10000))
 
-
+# Your Task:
+# Modify the simulation to plot points in the entire circle. You will have to
+#   adjust the calculated value of pi accordingly.
 
 
 
